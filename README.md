@@ -1,2 +1,1 @@
-# Alcides_aulas
-Repositório designado para aulas do alcides 
+# STATISTICS_MACHINE_LEARNING_AULAS
